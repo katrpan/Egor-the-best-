@@ -1,1 +1,6 @@
-# Egor-the-best-
+
+egor-panev-website/
+├── index.html          # Главная страница
+├── page2.html         # «Егор — супермуж»
+├── page3.html         # Топ-10 качеств
+├── page4.html         # «Я тебя люблю» (с анимацией)
